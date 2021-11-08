@@ -1,0 +1,22 @@
+{
+  "name": "unit3-evelution2",
+  "version": "1.0.0",
+  "description": "coading evelution 2",
+  "main": "index.js",
+  "scripts": {
+    "css:build": "tailwind build ./src/style.css -o ./components/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theintezar/unit3-evelution2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theintezar/unit3-evelution2/issues"
+  },
+  "homepage": "https://github.com/theintezar/unit3-evelution2#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
